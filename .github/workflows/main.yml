@@ -20,7 +20,7 @@ jobs:
 
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://neuralgeekroot:$HF_TOKEN@huggingface.co/spaces/neuralgeekroot/agenticai main
+          HF_TOKEN: ${{ secrets.HF_TOKEN_HOME_BUDGETING}}
+        run: git push --force https://neuralgeekroot:$HF_TOKEN@huggingface.co/spaces/neuralgeekroot/AI_Home_Budgeting main
        
          
