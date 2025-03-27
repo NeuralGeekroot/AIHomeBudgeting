@@ -12,7 +12,7 @@ short_description: Refined langgraphAgenticAI
 ---
 
 # AIHomeBudgeting
-This project automates blog generation using an LLM-powered workflow.
+This project automates Home Budget using an LLM-powered workflow.
 
 ## 🛠 Setup
 1. Clone repo
